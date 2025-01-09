@@ -5,7 +5,12 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const app = express();
-app.use(cors());
+app.use(
+  cors({
+    origin: "*", 
+  })
+);
+
 app.use(express.json());
 
 const client = new Client({
