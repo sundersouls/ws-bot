@@ -1,0 +1,4 @@
+2025/01/09-03:00:04.801 1d8c9 Reusing MANIFEST /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/09-03:00:04.801 1d8c9 Recovering log #79
+2025/01/09-03:00:04.822 1d8c9 Reusing old log /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000079.log 
+2025/01/09-03:00:07.212 1d8c8 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
