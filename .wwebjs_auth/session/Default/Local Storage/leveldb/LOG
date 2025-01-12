@@ -1,3 +1,6 @@
-2025/01/09-03:50:23.663 2366d Reusing MANIFEST /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2025/01/09-03:50:23.663 2366d Recovering log #3
-2025/01/09-03:50:23.670 2366d Reusing old log /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2025/01/12-20:51:34.677 17c68 Reusing MANIFEST /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/01/12-20:51:34.678 17c68 Recovering log #3
+2025/01/12-20:51:34.681 17c68 Reusing old log /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2025/01/12-20:53:35.580 17c6c Level-0 table #5: started
+2025/01/12-20:53:35.583 17c6c Level-0 table #5: 17681 bytes OK
+2025/01/12-20:53:35.587 17c6c Delete type=0 #3

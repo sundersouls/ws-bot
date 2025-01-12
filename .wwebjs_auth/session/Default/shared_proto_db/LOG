@@ -1,2 +1,3 @@
-2025/01/09-02:55:15.256 1cf86 Creating DB /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/shared_proto_db since it was missing.
-2025/01/09-02:55:15.259 1cf86 Reusing MANIFEST /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/shared_proto_db/MANIFEST-000001
+2025/01/12-20:56:50.222 17f27 Reusing MANIFEST /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/shared_proto_db/MANIFEST-000001
+2025/01/12-20:56:50.222 17f27 Recovering log #3
+2025/01/12-20:56:50.222 17f27 Reusing old log /home/sunder/Code/GitHub/ws-nodejs/salient/tailwindui-salient/whatsapp-verification/.wwebjs_auth/session/Default/shared_proto_db/000003.log 

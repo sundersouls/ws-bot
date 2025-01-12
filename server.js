@@ -44,6 +44,24 @@ app.post('/send-code', async (req, res) => {
     res.status(200).json({ success: true, message: 'Code sent successfully!' });
   } catch (error) {
     console.error('Error sending message:', error);
+    res.status(500).json({ success: false, error: 'Failed to send code' });
+  }
+});
+
+app.post('/send-message', async (req, res) => {
+  const { number, message } = req.body;
+
+  if (!number || !message) {
+    return res.status(400).json({ error: 'Number and code are required' });
+  }
+
+  try {
+    const formattedNumber = number.includes('@c.us') ? number : `${number}@c.us`; 
+
+    await client.sendMessage(formattedNumber, message);
+    res.status(200).json({ success: true, message: 'Code sent successfully!' });
+  } catch (error) {
+    console.error('Error sending message:', error);
     res.status(500).json({ success: false, error: 'Failed to send message' });
   }
 });
